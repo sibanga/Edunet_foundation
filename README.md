@@ -66,5 +66,5 @@ Offline access to itineraries
 Integration with booking platforms
 
 Voice-assisted trip planning
-# Hi, I'm Katherine! 👋
+# Hi, I'm Jarvis! 👋
 
